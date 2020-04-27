@@ -1,6 +1,6 @@
 # The Dining Philosophers Problem
 
-##### The Excercise was, come up with your own verison of the DPP, implement your idea using Java. (Animations would be appreciated)
+##### The Excercise was, come up with your own verison of the DPP, implement your idea using Java and solve the Deadlock problem. (Animations would be appreciated)
 ###### The team :
  - Robert Freiseisen
  - Christhoper Buchberger (Project Leader)
@@ -8,7 +8,7 @@
 
 
 So what did we come up with? 
-- First of all we really had to be extremly close for the original problem, it was not allowed to have like 4 or 6 Persons nor did we were able to change the way the deadlock can be produced. So here is how we did it.
+- First of all we really had to be extremly close to the original problem, it was not allowed to have like 4 or 6 Persons nor did we were able to change the way the deadlock can be produced. So here is how we did it.
 
   - We have **5 test subject standing** arround a circuluar table.
   - All of the **test subject have been blindfoolded** so that they can not see  what the other ones do.

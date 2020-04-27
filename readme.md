@@ -2,8 +2,8 @@
 
 ##### The Excercise was, come up with your own verison of the DPP, implement your idea using Java and solve the Deadlock problem. (Animations would be appreciated)
 ###### The team :
- - Robert Freiseisen
- - Christhoper Buchberger (Project Leader)
+ - Robert Freiseisen https://github.com/robertFreiseisen
+ - Christhoper Buchberger (Project Leader) https://github.com/CodeChrisB/
 
 
 
